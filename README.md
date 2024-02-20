@@ -12,14 +12,17 @@ or a one-liner command.
 git clone https://github.com/mariosdaskalas/nettie && cd nettie && python3 main.py --help
 ```
 
-```shell
-Notice: ⚠️
 You need to run the program with root privileges.
 You need to install the following package.
+
+```shell
+Notice: ⚠️
+
 pip3 install scapy
 ```
 
-```shell
 To scan the internal network range use the following command.
+
+```shell
 python3 main.py --target 192.168.1.1/24
 ```
