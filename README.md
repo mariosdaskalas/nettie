@@ -16,8 +16,6 @@ You need to run the program with root privileges.
 You need to install the following package.
 
 ```shell
-Notice: ⚠️
-
 pip3 install scapy
 ```
 
