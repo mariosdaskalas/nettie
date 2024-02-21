@@ -2,7 +2,7 @@ This is a Python CLI program dedicated for scanning an internal network, display
 
 ```shell
 git clone https://github.com/mariosdaskalas/nettie
-cd maccie
+cd nettie
 python3 main.py --help
 ```
 
